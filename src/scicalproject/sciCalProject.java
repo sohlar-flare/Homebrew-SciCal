@@ -14,14 +14,18 @@ public class sciCalProject {
         System.out.println("Hello, " + name + ", have a nice day!");
         
         System.out.println("Please select a function: ");
-        System.out.println("1 = graphing, 2 = system of linear equations, 3 = matrices");
+        System.out.println("1 = Simple Arithmethic, 2 = system of linear equations, 3 = matrices");
         
         int functionResponse = userInput.nextInt();
+		
         
         switch(functionResponse)
         {
             case (1):
                System.out.println("Still under maintenance");
+					
+					System.out.println()
+					float 
                break;
             case 2:
                System.out.println("Still under maintenance");  
