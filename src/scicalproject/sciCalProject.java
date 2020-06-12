@@ -29,7 +29,8 @@ public class sciCalProject {
             case 3:
                System.out.println("Still under maintenance");
                break;
-            
+            case 4:
+				System.out.println("Still under maintenance");
         }   
     }
     
